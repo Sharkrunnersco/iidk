@@ -1,0 +1,9 @@
+{
+  "name": "feral-depths-server",
+  "version": "1.0.0",
+  "description": "Room-based WebSocket server for FERAL DEPTHS (tag + spore infection)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
